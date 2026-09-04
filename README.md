@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/kernelgo/main/.github/assets/thumbnail.png" alt="kernelgo" width="100%">
+</p>
+
 # macOS Kernel Tool (Go)
 
 Go CLI for macOS system/kernel info via uname.
