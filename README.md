@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/kernelgo/main/.github/assets/thumbnail.png" alt="kernelgo" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/kernelgo/main/.github/assets/thumbnail.png" alt="kernelgo" width="100%">
 </p>
 
 # macOS Kernel Tool (Go)
